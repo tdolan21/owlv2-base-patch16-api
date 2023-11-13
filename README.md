@@ -4,6 +4,9 @@ This repo is a simple object detection testing platform using Owlv2 from Google.
 
 This is the third installment in a testing series I am performing. A complete write up of the findings will be provided once completed. 
 
+- Full guide available [here](https://tims-tutorials.vercel.app/blog/owlv2-base-patch16-ensemble)
+- Live demo available on Huggingface [Spaces](https://huggingface.co/spaces/macadeliccc/owlv2-base-patch-16-ensemble-demo)
+  
 ## Install
 
 ```bash
